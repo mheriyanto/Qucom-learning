@@ -1,2 +1,4 @@
 # Qucom-learn
-Learn Quantum Computing with Qiskit.
+Learn quantum computers with Qiskit.
+
+# Instalasi
