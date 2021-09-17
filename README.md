@@ -11,3 +11,4 @@ Learn quantum computers for machine learning tasks.
 ### References
 + **Qiskit** by IBM: [Website](https://qiskit.org) and [Github](https://github.com/Qiskit). Sources: [qiskit-machine-learning](https://github.com/Qiskit/qiskit-machine-learning), [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials), etc.
 + **QuantumAI** by Google: [Website](https://quantumai.google) and [Github](https://github.com/quantumlib). Sources: [OpenFermion](https://github.com/quantumlib/OpenFermion), [Cirq](https://github.com/quantumlib/cirq), etc.
++ **torchquantum** by MIT: A PyTorch-centric hybrid classical-quantum machine learning framework . [GitHUb](https://github.com/mit-han-lab/pytorch-quantum)
